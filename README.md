@@ -144,6 +144,8 @@
         <br>MySQL
     </td>
     <td align="center" width="90">
+        <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="python" width="40" height="40"/> </a>
+        <br>Supabase
     </td>
     <td align="center" width="90">
     </td>
@@ -160,28 +162,28 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-        <a href="https://apify.com/" target="_blank"><img alt="Apify" width="45" height="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/tools/apify.svg" /></a>
-        <br>Apify
+        <a href="https://github.com/" target="_blank"><img alt="Git" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.svg" /></a>
+        <br><h4>Git</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://www.octoparse.com/" target="_blank"><img alt="Octoparse" width="45" height="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/tools/octoparse.svg" /></a>
-        <br>Octoparse
+        <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/aws.svg" /></a>
+        <br><h4>AWS</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://github.com/" target="_blank"><img alt="Git" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" /></a>
-        <br>GitHub
+        <a href="https://www.docker.com/" target="_blank"><img alt="Docker" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/docker.svg" /></a>
+        <br><h4>Docker</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/aws.svg" /></a>
-        <br>AWS
+        <a href="https://kubernetes.io/" target="_blank"><img alt="Kubernetes" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/kubernetes.svg" /></a>
+        <br><h4>Kubernetes</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://kubernetes.io/" target="_blank"><img alt="Docker" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/docker.svg" /></a>
-        <br>Docker
+        <a href="https://www.jenkins.io/" target="_blank"><img alt="Jenkins" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/jenkins.svg" /></a>
+        <br><h4>Jenkins</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://www.docker.com/" target="_blank"><img alt="Kubenetes" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/kubernetes.svg" /></a>
-        <br>Kubenetes
+        <a href="https://www.postman.com/" target="_blank"><img alt="Postman" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Postman.png" /></a>
+        <br><h4>Postman</h4>
     </td>
     <td align="center" width="90">
     </td>
